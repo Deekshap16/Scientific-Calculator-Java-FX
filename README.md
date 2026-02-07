@@ -1,3 +1,5 @@
+## Project Screenshot
+![Scientific Calculator](https://github.com/Deekshap16/Scientific-Calculator-/blob/73a5fd2b2347248b2200725256d03e5a5ec26217/Screenshot%202026-02-07%20122214.png)
 # Scientific Calculator - JavaFX Application
 
 A modern, feature-rich scientific calculator built with Core Java and JavaFX with a sleek dark theme.
